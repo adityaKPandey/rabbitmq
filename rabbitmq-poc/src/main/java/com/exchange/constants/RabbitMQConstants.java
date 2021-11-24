@@ -14,4 +14,7 @@ public class RabbitMQConstants{
     public final static String ROUTING_KEY_TOPIC_PATTERN = "topic.*" ;
     public final static String TOPIC_ROUTING_KEY = "topic.exchangeKey" ;
 
+    public final static String HEADERS_QUEUE_NAME = "helloHeader" ;
+    public final static String HEADERS_EXCHANGE = "simple_header_exchange" ;
+
 }
