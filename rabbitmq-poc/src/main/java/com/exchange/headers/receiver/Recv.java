@@ -20,9 +20,10 @@ public class Recv {
        Connection connection = connectionFactory.newConnection();
 
        Map<String,Object> headers = new HashMap<>();
+       headers.put("x-match","all");
        headers.put("eeContenst-Type","applicasstion/json");
        headers.put("Content-Type","application/json");
-       headers.put("x-match","all");
+
 
 
        // x-match :all or any : this is decided between exchange and receiver/consumer

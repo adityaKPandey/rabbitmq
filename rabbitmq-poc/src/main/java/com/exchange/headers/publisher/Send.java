@@ -29,9 +29,10 @@ public class Send {
            // channel.basicPublish("", QUEUE_NAME, null, message.getBytes());
 
             Map<String,Object> headers = new HashMap<>();
+            //headers.put("x-match","all");
             headers.put("Content-Type","application/json");
             headers.put("Contenst-Type","applicatsion/json");
-            headers.put("eeContenst-Type","applicassetion/json");
+            headers.put("eeContenst-Type","applicasstion/json");
             headers.put("Content-Type","application/json");
 
             // x-match :all or any : this is decided between exchange and receiver/consumer
