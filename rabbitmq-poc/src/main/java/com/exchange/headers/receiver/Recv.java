@@ -43,7 +43,6 @@ public class Recv {
            String messageStr = new String(message.getBody()  , StandardCharsets.UTF_8) ;
 
            Object header = message.getProperties().getHeaders().get("Content-Type") ;
-
            System.out.println(" [x] Received '" + messageStr + "'" + " from exchange:"+  message.getEnvelope().getExchange()
            + " with routing key:"+message.getEnvelope().getRoutingKey() + " ,header:" + header.toString());
 

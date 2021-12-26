@@ -1,1 +1,13 @@
-D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\rabbitmq\publisher\Send.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\direct\Send.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\constants\RabbitMQConstants.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\fanout\Receiver2.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\headers\receiver\Recv.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\direct\receiver\Recv.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\topic\receiver\Recv.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\fanout\Receiver1.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\direct\Recv.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\headers\publisher\Send.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\fanout\Sender.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\topic\publisher\Send.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\chat\common\RabbitMQConnectionFactory.java
+D:\dev\mygitrepos\rabbitmq\rabbitmq-poc\src\main\java\com\exchange\direct\publisher\Send.java

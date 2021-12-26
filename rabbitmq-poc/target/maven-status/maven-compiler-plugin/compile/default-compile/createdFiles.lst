@@ -1,1 +1,15 @@
-com\rabbitmq\publisher\Send.class
+com\chat\common\RabbitMQConnectionFactory.class
+com\chat\common\RabbitMQConnectionFactory$1.class
+com\chat\common\RabbitMQConnectionFactory$RabbitMQConnectionFactoryBuilder.class
+com\exchange\constants\RabbitMQConstants.class
+com\chat\fanout\Receiver1.class
+com\chat\fanout\Sender.class
+com\exchange\direct\receiver\Recv.class
+com\exchange\topic\receiver\Recv.class
+com\chat\direct\Send.class
+com\exchange\headers\receiver\Recv.class
+com\exchange\direct\publisher\Send.class
+com\exchange\headers\publisher\Send.class
+com\chat\fanout\Receiver2.class
+com\chat\direct\Recv.class
+com\exchange\topic\publisher\Send.class
